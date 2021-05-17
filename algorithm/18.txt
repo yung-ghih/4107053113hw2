@@ -1,0 +1,5 @@
+result_ant_BestScore=[550.430573865488]
+result_ant_Runtime=[1.5395104885101318]
+result_DP_optimal_cost=[434.8185654199742]
+result_DP_runtime=[245.28791847229004]
+result_relative_error=[0.2658856305591475]
